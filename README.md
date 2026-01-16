@@ -22,19 +22,4 @@ sudo apt install python3-pyqt6 python3-requests python3-bs4
 python3 llm_bot.py  # run the bot
 
 
-workflow:
-1. In Custom URL tab / Command :put in a valid URL then click add > then click Scrape
-    ↓
 
-2. In Man Pages Tab Fetch → Save as .txt in ~/.local/share/llmfeed/ 
-    ↓
-(Within 5 min?) → Yes → AI ops (LLM @ localhost:8080)
-                → No  → Skipped (to save RAM/cache)
-
-3. Summarize tab > click the button there is no progress visible as it runs on the background.
-
-4. Extract code, fast background process
-
-5. Build Index, fast background process
-
-6. Classify it, also 1 click runs in baclground as the previous just be patient don't click twice it will appear confirmed.

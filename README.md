@@ -7,7 +7,7 @@ Start LLM server on localhost:8080, then run:
 python3 llm_bot.py in a 2nd shell.
 
 
-The Man page tab has a fetch button just press once i's a background proces that takes a minute or 3.
+The Man page tab has a fetch button just press once it's a background proces that takes a minute or 3.
 
 ## How to Install & Use
 

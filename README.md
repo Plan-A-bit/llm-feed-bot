@@ -23,3 +23,9 @@ python3 llm_bot.py  # run the bot
 
 
 
+
+## Screenshots
+
+![Welcome Page](welpage.png)
+
+![Example Fetch](Examplefetch.png)

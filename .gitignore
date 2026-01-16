@@ -1,0 +1,19 @@
+# Local data (never commit)
+~/.local/share/llmfeed/
+/opt/llmfeed/
+
+# Secrets & tokens
+*.token
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Vim swap files
+.*.swp
+.*.swo

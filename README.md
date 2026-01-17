@@ -30,4 +30,4 @@ python3 llm_bot.py  # run the bot
 
 ![Example Fetch](Examplefetch.png)
 
-- [Demo: Offline LLM Knowledge Base](https://gist.github.com/Plan-A-bit/92496cdc8c836e56d4996501d9dd25e8)
+
